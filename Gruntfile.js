@@ -20,6 +20,7 @@ module.exports = function (grunt) {
                       + "// @version     0.98.5\n"
                       + "// @grant       none\n"
                       + "// @author      Gore (based on https://github.com/dufferzafar/Userscripts)\n"
+                      + "// @homepageURL https://github.com/Goram/MusicBrainz-Import-from-Amazon\n"
                       + "// @description Import releases from Amazon\n"
                       + "// @require     https://code.jquery.com/jquery-2.2.3.min.js\n"
                       + "// @require     https://code.jquery.com/ui/1.11.4/jquery-ui.min.js\n"
